@@ -1,0 +1,9 @@
+target/
+.idea/
+.vscode/
+*.iml
+reports/
+imports/
+*.log
+# your saved students (personal data, don't commit it)
+data/
